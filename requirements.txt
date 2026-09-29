@@ -1,0 +1,7 @@
+chromadb
+sentence-transformers
+watchdog
+pypdf
+python-docx
+langchain-text-splitters
+ollama
